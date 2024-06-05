@@ -1,0 +1,27 @@
+@import url(_variables.scss);
+section {
+  .contenidoservicios {
+    background-color: $colorparrafos;
+
+    padding: auto;
+    width: 80%;
+  }
+
+  .parrafos1 {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    padding: 2%;
+  }
+  .titulo--grande {
+    width: 100%;
+    color: turquoise;
+    font-size: 34px;
+  }
+  .cuerpo1--parrafo {
+    color: snow;
+    font-size: 22px;
+    padding: 10px;
+    width: 90%;
+  }
+}

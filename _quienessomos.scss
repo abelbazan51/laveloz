@@ -1,0 +1,30 @@
+@import url(_variables.scss);
+article {
+  .contacto-pie {
+    background-color: #272626;
+    width: 100%;
+    padding: 2rem;
+    -webkit-box-shadow: 0rem 10px 30px -10px #e40808;
+    box-shadow: 0rem 10px 30px -10px #e40808;
+    margin: 16px 20px 40px 20px;
+  }
+
+  .tituloquienessomos2 {
+    color: aqua;
+  }
+}
+section {
+  .div-quienessomos {
+    background-color: #433133;
+    padding: 3%;
+  }
+  .tituloquienessomos2 {
+    color: aqua;
+  }
+  .cuerpo1--parrafo {
+    color: snow;
+    font-size: 22px;
+    padding: 10px;
+    width: 90%;
+  }
+}

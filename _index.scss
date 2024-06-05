@@ -1,0 +1,48 @@
+header {
+  section {
+    .tarjeta {
+      background-color: black;
+      overflow: 100%;
+      color: $colorfondo;
+    }
+
+    .porqueelejirnos1 {
+      font-size: 20px;
+      padding: 1%;
+      background-color: $colorfondo;
+    }
+
+    .mixin-1 {
+      height: 50%;
+      width: 60%;
+      background-color: $colorfondo;
+    }
+
+    footer {
+      .logitos {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-line-pack: auto;
+        align-content: auto;
+        background-color: $colorfondo;
+      }
+      .contacto-pie {
+        background-color: #272626;
+        width: 100%;
+        padding: 2rem;
+        -webkit-box-shadow: 0rem 10px 30px -10px #e40808;
+        box-shadow: 0rem 10px 30px -10px #e40808;
+        margin: 16px 20px 40px 20px;
+      }
+      .piedepagina {
+        font-size: 15px;
+        background-color: black;
+        color: aliceblue;
+      }
+      .final--cuerpo {
+        padding: 10px;
+      }
+    }
+  }
+}
